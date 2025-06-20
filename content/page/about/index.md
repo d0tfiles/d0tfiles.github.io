@@ -10,11 +10,11 @@ menu:
 ---
 
 # faq
-###### what is this place?
+## what is this place?
 > This place meant to host all my interests, so strap in while I type into the ether.
-###### why did you make this blog?
+## why did you make this blog?
 > I wanted a place where I can capture all my interests, publish online, and create learning opportunities. I don't believe there is an existing toolset that allows me to create the type of content I want without certain limitations. Let this place be a playground, brain dump, scrapbook of sorts. 
-###### who are you?
+## who are you?
 > Simply a lass with way too many interests, that happens to be rather geeky. My job experience expands over various domains. 
 
 # tags
