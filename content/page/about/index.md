@@ -2,7 +2,7 @@
 title: "about"
 description: enter the d0tfiles
 slug: about
-toc: true
+toc: false
 menu:
     main:
         weight: 2
