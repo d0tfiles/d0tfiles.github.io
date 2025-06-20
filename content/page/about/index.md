@@ -1,7 +1,8 @@
 ---
 title: "about"
 description: enter the d0tfiles
-slug: "about"
+slug: about
+toc: true
 menu:
     main:
         weight: 2
