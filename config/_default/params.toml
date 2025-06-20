@@ -19,7 +19,7 @@ subtitle = "techy and geeky lass that likes trying things"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/my-notion-face-transparent.png"
+src = "img/avatar.png"
 
 [article]
 headingAnchor = false
