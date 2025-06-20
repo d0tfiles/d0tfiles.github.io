@@ -1,6 +1,5 @@
 ---
 title: "about"
-date: 2025-06-20
 layout: "about"
 slug: "about"
 menu:
@@ -12,15 +11,19 @@ menu:
 
 welcome to my blog 
 
-### tags:
+# Tags:
 * `video games` - video games! 🎮
 * `movies` - movies that I watched then had something to say 🎥
 * `books` - books I've read and reviewed. 📚
 * `art` - art by me, where I might discuss my process 🖌️
+* `documentation` - my job is also a passion of mine, stay tuned to read how I document my processes 
+*  `project` - projects that I've worked on 
 
-# FAQ:
+# faq
 ###### what is this place?
->this place meant to host all my interests, so strap in while I type into the ether.
+> This place meant to host all my interests, so strap in while I type into the ether.
+##### why not have 10 different social medias?
+> My brain doesn't work that way. I find it more manageable when I can organize and currate my own content farm. 
 
-# contact me:
+# contact me
 contact-me@whoknows.com
