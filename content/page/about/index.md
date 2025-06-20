@@ -11,11 +11,11 @@ menu:
 
 welcome to my blog 
 
-# Tags:
-* `video games` - video games! 🎮
-* `movies` - movies that I watched then had something to say 🎥
-* `books` - books I've read and reviewed. 📚
-* `art` - art by me, where I might discuss my process 🖌️
+# tags
+* `video games` - video games!  🎮
+* `movies` - movies that I watched then had something to say  🎥
+* `books` - books I've read and reviewed.  📚
+* `art` - art by me, where I might discuss my process  🖌️
 * `documentation` - my job is also a passion of mine, stay tuned to read how I document my processes 
 *  `project` - projects that I've worked on 
 
