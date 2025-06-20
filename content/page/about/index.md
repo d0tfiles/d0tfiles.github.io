@@ -30,3 +30,5 @@ menu:
 
 # contact me
 contact-me@whoknows.com
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.32.2/tocbot.min.js"></script>
