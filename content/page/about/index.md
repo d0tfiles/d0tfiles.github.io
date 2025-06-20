@@ -1,6 +1,6 @@
 ---
 title: "about"
-layout: "about"
+description: enter the d0tfiles
 slug: "about"
 menu:
     main:
@@ -8,8 +8,6 @@ menu:
         params: 
             icon: user
 ---
-
-welcome to my blog 
 
 # faq
 ###### what is this place?
@@ -26,7 +24,7 @@ welcome to my blog
 * `art` - art by me, where I might discuss my process  
 * `documentation` - my job is also a passion of mine, stay tuned to read how I document my processes 
 * `project` - projects that I've worked on
-* `cool' - things I found to be neato
+* `cool` - things I found to be neato
 * `automation`
 
 
