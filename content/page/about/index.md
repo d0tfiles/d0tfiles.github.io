@@ -22,8 +22,10 @@ welcome to my blog
 # faq
 ###### what is this place?
 > This place meant to host all my interests, so strap in while I type into the ether.
-##### why not have 10 different social medias?
-> My brain doesn't work that way. I find it more manageable when I can organize and currate my own content farm. 
+###### why did you make this blog?
+> I wanted a place where I can capture all my interests, publish online, and create learning opportunities. I don't believe there is an existing toolset that allows me to create the type of content I want without certain limitations. Let this place be a playground, brain dump, scrapbook of sorts. 
+###### who are you?
+> Simply a lass with way too many interests, that happens to be rather geeky. My job experience expands over various domains. 
 
 # contact me
 contact-me@whoknows.com
