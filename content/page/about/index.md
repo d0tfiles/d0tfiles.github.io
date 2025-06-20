@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 date: 2025-06-20
 layout: "about"
 slug: "about"
